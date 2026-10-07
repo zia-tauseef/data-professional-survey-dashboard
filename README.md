@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analysing a survey of 630 data professionals.
 
-![Dashboard preview](images/dashboard-preview.png)
+![Dashboard preview](images/dashboard-preview.PNG)
 
 ## About the project
 This dashboard explores who works in data, what they earn, which languages
